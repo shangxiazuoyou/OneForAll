@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/OneForAll.iml" filepath="$PROJECT_DIR$/OneForAll.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
     </modules>
   </component>
 </project>
